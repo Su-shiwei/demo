@@ -1,1 +1,4 @@
-hhhhh
+配置文件配置项顺序：
+properties→settings→typeAliases→typeHandlers→objectFactory→objectWrapperFactory→reflectorFactory→plugins→environments→databaseIdProvider→mappers
+
+驼峰命名开启：mapUnderscoreToCamelCase
